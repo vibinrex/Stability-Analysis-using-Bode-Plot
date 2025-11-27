@@ -6,7 +6,9 @@ Computer with MATLAB software
 
 ## Theory:
 
-Stability analysis using a Bode plot in MATLAB evaluates a system’s frequency response to determine its gain margin and phase margin. A system is stable when these margins are positive, indicating adequate separation from the instability point.
+![WhatsApp Image 2025-11-27 at 22 09 01_7c3f6a55](https://github.com/user-attachments/assets/2e89c0bb-9d3f-4d67-aa3c-71ff28cadf05)
+
+![WhatsApp Image 2025-11-27 at 22 09 01_8c492519](https://github.com/user-attachments/assets/ae9e8ff7-8ddf-453e-8201-19981a1bf685)
 
 
 ## Procedure:
